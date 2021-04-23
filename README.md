@@ -6,7 +6,8 @@ Collection of React Hooks ready to install with NPM
 -[x] useTabs
 -[x] useTitle
 -[x] useClick
--[] usePageLeave
+-[x] useConfirm
+-[x] usePageLeave
 -[] useFadeIn
 -[] useFullscreen
 -[] useHover
